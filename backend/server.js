@@ -14,7 +14,7 @@ dotenv.config();//This is used to connect env file to server
 
 
 connectDB();
-job.start();
+// job.start();
 
 // const app = express() // We don't need this anymore bcz we created one in socket js
 
